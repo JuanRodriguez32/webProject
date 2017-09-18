@@ -1,0 +1,4076 @@
+[
+  {
+    "Publisher": "10TACLE Studios",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "1C Company",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "20th Century Fox Video Games",
+    "US_SALES": 0.1,
+    "EU_SALES": 1.82,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "2D Boy",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "3DO",
+    "US_SALES": 3.04,
+    "EU_SALES": 6.48,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.63
+  },
+  {
+    "Publisher": "49Games",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "505 Games",
+    "US_SALES": 16.19,
+    "EU_SALES": 31.63,
+    "JP_SALES": 2.05,
+    "OTHER_SALES": 5.31
+  },
+  {
+    "Publisher": "5pb",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 1.64,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "7G//AMES",
+    "US_SALES": 0.05,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "989 Sports",
+    "US_SALES": 0.14,
+    "EU_SALES": 0.21,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "989 Studios",
+    "US_SALES": 3.3,
+    "EU_SALES": 9.23,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0.67
+  },
+  {
+    "Publisher": "Abylight",
+    "US_SALES": 0,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Acclaim Entertainment",
+    "US_SALES": 17.28,
+    "EU_SALES": 44.54,
+    "JP_SALES": 1.17,
+    "OTHER_SALES": 3.45
+  },
+  {
+    "Publisher": "Accolade",
+    "US_SALES": 0.34,
+    "EU_SALES": 1.25,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Ackkstudios",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.12,
+    "JP_SALES": 0.66,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Acquire",
+    "US_SALES": 0,
+    "EU_SALES": 0.14,
+    "JP_SALES": 0.91,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Activision",
+    "US_SALES": 215.9,
+    "EU_SALES": 432.59,
+    "JP_SALES": 6.71,
+    "OTHER_SALES": 75.81
+  },
+  {
+    "Publisher": "Activision Blizzard",
+    "US_SALES": 0.36,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Activision Value",
+    "US_SALES": 0.88,
+    "EU_SALES": 5.51,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.57
+  },
+  {
+    "Publisher": "Adeline Software",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.1,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Aerosoft",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Agatsuma Entertainment",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.22,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Agetec",
+    "US_SALES": 0.58,
+    "EU_SALES": 0.78,
+    "JP_SALES": 0.38,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "Aksys Games",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0.2,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Alawar Entertainment",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Alchemist",
+    "US_SALES": 0.46,
+    "EU_SALES": 0.59,
+    "JP_SALES": 1.42,
+    "OTHER_SALES": 0.15
+  },
+  {
+    "Publisher": "Alternative Software",
+    "US_SALES": 0.17,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Altron",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Alvion",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "American Softworks",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Angel Studios",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.44,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Answer Software",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.46,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "AQ Interactive",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.32,
+    "JP_SALES": 0.11,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Aqua Plus",
+    "US_SALES": 0,
+    "EU_SALES": 0.05,
+    "JP_SALES": 1.22,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Aques",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Arc System Works",
+    "US_SALES": 0,
+    "EU_SALES": 0.73,
+    "JP_SALES": 0.58,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Arena Entertainment",
+    "US_SALES": 0.88,
+    "EU_SALES": 3.7,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.14
+  },
+  {
+    "Publisher": "Aria",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Arika",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "ArtDink",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0.59,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Aruze Corp",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 1.09,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "ASC Games",
+    "US_SALES": 0.77,
+    "EU_SALES": 1.12,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Ascaron Entertainment",
+    "US_SALES": 0.01,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ascaron Entertainment GmbH",
+    "US_SALES": 0.09,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "ASCII Entertainment",
+    "US_SALES": 0.44,
+    "EU_SALES": 0.7,
+    "JP_SALES": 9.4,
+    "OTHER_SALES": 0.36
+  },
+  {
+    "Publisher": "ASCII Media Works",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.27,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Asgard",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.25,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "ASK",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Asmik Ace Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.22,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Asmik Corp",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.17,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Aspyr",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.53,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Astragon",
+    "US_SALES": 0.36,
+    "EU_SALES": 0.24,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Asylum Entertainment",
+    "US_SALES": 0.42,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Atari",
+    "US_SALES": 27,
+    "EU_SALES": 109.84,
+    "JP_SALES": 10.71,
+    "OTHER_SALES": 8.9
+  },
+  {
+    "Publisher": "Athena",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Atlus",
+    "US_SALES": 0.94,
+    "EU_SALES": 3.97,
+    "JP_SALES": 6.76,
+    "OTHER_SALES": 0.69
+  },
+  {
+    "Publisher": "Avalon Interactive",
+    "US_SALES": 0.12,
+    "EU_SALES": 0.34,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Avanquest",
+    "US_SALES": 1.54,
+    "EU_SALES": 1.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.24
+  },
+  {
+    "Publisher": "Avanquest Software",
+    "US_SALES": 0.47,
+    "EU_SALES": 0.95,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0.16
+  },
+  {
+    "Publisher": "Axela",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.24,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "BAM! Entertainment",
+    "US_SALES": 1.45,
+    "EU_SALES": 3.16,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0.24
+  },
+  {
+    "Publisher": "Banpresto",
+    "US_SALES": 0.19,
+    "EU_SALES": 0.41,
+    "JP_SALES": 16.44,
+    "OTHER_SALES": 0.36
+  },
+  {
+    "Publisher": "Benesse",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.32,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Berkeley",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Bethesda Softworks",
+    "US_SALES": 31.83,
+    "EU_SALES": 41.36,
+    "JP_SALES": 1.5,
+    "OTHER_SALES": 10.37
+  },
+  {
+    "Publisher": "Big Ben Interactive",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.77,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Big Fish Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Bigben Interactive",
+    "US_SALES": 0.43,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "bitComposer Games",
+    "US_SALES": 0.2,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Black Bean Games",
+    "US_SALES": 1.46,
+    "EU_SALES": 1.25,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.38
+  },
+  {
+    "Publisher": "Black Label Games",
+    "US_SALES": 0.46,
+    "EU_SALES": 0.59,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.15
+  },
+  {
+    "Publisher": "Blast! Entertainment Ltd",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.23,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Blue Byte",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "BMG Interactive Entertainment",
+    "US_SALES": 0.44,
+    "EU_SALES": 0.67,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Bohemia Interactive",
+    "US_SALES": 0.1,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Bomb",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.21,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Boost On",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "BPS",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.52,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Brash Entertainment",
+    "US_SALES": 0.21,
+    "EU_SALES": 0.89,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Broccoli",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.96,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "BushiRoad",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Capcom",
+    "US_SALES": 38.53,
+    "EU_SALES": 78.25,
+    "JP_SALES": 68.43,
+    "OTHER_SALES": 14.53
+  },
+  {
+    "Publisher": "Cave",
+    "US_SALES": 0,
+    "EU_SALES": 0.14,
+    "JP_SALES": 0.18,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "CBS Electronics",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.29,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "CCP",
+    "US_SALES": 0.24,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "CDV Software Entertainment",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.11,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "ChunSoft",
+    "US_SALES": 0,
+    "EU_SALES": 0.31,
+    "JP_SALES": 3.61,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "City Interactive",
+    "US_SALES": 2.17,
+    "EU_SALES": 1.68,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0.52
+  },
+  {
+    "Publisher": "Cloud Imperium Games Corporation",
+    "US_SALES": 0,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Coconuts Japan",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Codemasters",
+    "US_SALES": 28.37,
+    "EU_SALES": 11.97,
+    "JP_SALES": 0.82,
+    "OTHER_SALES": 6.04
+  },
+  {
+    "Publisher": "Codemasters Online",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "CokeM Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.29,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Coleco",
+    "US_SALES": 0.17,
+    "EU_SALES": 2.87,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Comfort",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Commseed",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Compile",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 2.35,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Compile Heart",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.46,
+    "JP_SALES": 0.81,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Conspiracy Entertainment",
+    "US_SALES": 0.14,
+    "EU_SALES": 0.63,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Core Design Ltd.",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "CPG Products",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.5,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Crave Entertainment",
+    "US_SALES": 1.87,
+    "EU_SALES": 6.84,
+    "JP_SALES": 0.45,
+    "OTHER_SALES": 0.66
+  },
+  {
+    "Publisher": "Creative Core",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Crimson Cow",
+    "US_SALES": 0.06,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Crystal Dynamics",
+    "US_SALES": 0.65,
+    "EU_SALES": 0.95,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.12
+  },
+  {
+    "Publisher": "Crytek",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "CTO SpA",
+    "US_SALES": 0.34,
+    "EU_SALES": 0.5,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Culture Brain",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.27,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Culture Publishers",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "CyberFront",
+    "US_SALES": 0,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0.26,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Cygames",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "D3Publisher",
+    "US_SALES": 4.77,
+    "EU_SALES": 11.33,
+    "JP_SALES": 4.65,
+    "OTHER_SALES": 2.82
+  },
+  {
+    "Publisher": "Daedalic",
+    "US_SALES": 0.24,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Daedalic Entertainment",
+    "US_SALES": 0.11,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Daito",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.23,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Data Age",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.66,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Data Design Interactive",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.25,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Data East",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Datam Polystar",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Deep Silver",
+    "US_SALES": 8.63,
+    "EU_SALES": 12.82,
+    "JP_SALES": 1.12,
+    "OTHER_SALES": 2.76
+  },
+  {
+    "Publisher": "Destination Software, Inc",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.74,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Destineer",
+    "US_SALES": 0.05,
+    "EU_SALES": 3.96,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.27
+  },
+  {
+    "Publisher": "Detn8 Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.21,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Devolver Digital",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "DHM Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "DigiCube",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Disney Interactive Studios",
+    "US_SALES": 33.25,
+    "EU_SALES": 70.5,
+    "JP_SALES": 0.56,
+    "OTHER_SALES": 12.95
+  },
+  {
+    "Publisher": "Dorart",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "dramatic create",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "DreamCatcher Interactive",
+    "US_SALES": 0.14,
+    "EU_SALES": 0.72,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "DreamWorks Interactive",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "DSI Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.28,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "DTP Entertainment",
+    "US_SALES": 1.36,
+    "EU_SALES": 1.62,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.44
+  },
+  {
+    "Publisher": "Dusenberry Martin Racing",
+    "US_SALES": 0,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "EA Games",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Easy Interactive",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ecole",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Edia",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.09,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Eidos Interactive",
+    "US_SALES": 35.4,
+    "EU_SALES": 49.13,
+    "JP_SALES": 6.11,
+    "OTHER_SALES": 7.97
+  },
+  {
+    "Publisher": "Electronic Arts",
+    "US_SALES": 373.91,
+    "EU_SALES": 599.5,
+    "JP_SALES": 14.35,
+    "OTHER_SALES": 128.96
+  },
+  {
+    "Publisher": "Electronic Arts Victor",
+    "US_SALES": 0.17,
+    "EU_SALES": 0.23,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Elf",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.64,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Elite",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Empire Interactive",
+    "US_SALES": 3.75,
+    "EU_SALES": 6.04,
+    "JP_SALES": 0.42,
+    "OTHER_SALES": 1.12
+  },
+  {
+    "Publisher": "Encore",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Enix Corporation",
+    "US_SALES": 0.31,
+    "EU_SALES": 0.76,
+    "JP_SALES": 32.4,
+    "OTHER_SALES": 0.27
+  },
+  {
+    "Publisher": "Enjoy Gaming ltd.",
+    "US_SALES": 0,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Enterbrain",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.12,
+    "JP_SALES": 1.94,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "EON Digital Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Epic Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Epoch",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.99,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Ertain",
+    "US_SALES": 0,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "ESP",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0.54,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Essential Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0.22,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Evolution Games",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Evolved Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.27,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Excalibur Publishing",
+    "US_SALES": 0.24,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Experience Inc.",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.08,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Extreme Entertainment Group",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Falcom Corporation",
+    "US_SALES": 0,
+    "EU_SALES": 0.28,
+    "JP_SALES": 0.91,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Fields",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Flashpoint Games",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Flight-Plan",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Focus Home Interactive",
+    "US_SALES": 5.65,
+    "EU_SALES": 1.87,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0.95
+  },
+  {
+    "Publisher": "Focus Multimedia",
+    "US_SALES": 0.06,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "fonfun",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Foreign Media Games",
+    "US_SALES": 0.27,
+    "EU_SALES": 0.27,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Fortyfive",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Fox Interactive",
+    "US_SALES": 3.19,
+    "EU_SALES": 3.76,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.43
+  },
+  {
+    "Publisher": "From Software",
+    "US_SALES": 0.21,
+    "EU_SALES": 0.35,
+    "JP_SALES": 0.99,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Fuji",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Funbox Media",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.71,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Funcom",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "FunSoft",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Funsta",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "FuRyu",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.12,
+    "JP_SALES": 1.21,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "FuRyu Corporation",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "G.Rev",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gaga",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gainax Network Systems",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.16,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Gakken",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Game Arts",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.14,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Game Factory",
+    "US_SALES": 0.19,
+    "EU_SALES": 3.28,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.23
+  },
+  {
+    "Publisher": "Game Life",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Gamebridge",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.3,
+    "JP_SALES": 0.24,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Gamecock",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gameloft",
+    "US_SALES": 0,
+    "EU_SALES": 0.1,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "GameMill Entertainment",
+    "US_SALES": 0.03,
+    "EU_SALES": 1.26,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Games Workshop",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "GameTek",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gathering of Developers",
+    "US_SALES": 0.47,
+    "EU_SALES": 0.61,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Gearbox Software",
+    "US_SALES": 0,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "General Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.13,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Genki",
+    "US_SALES": 0.35,
+    "EU_SALES": 0.49,
+    "JP_SALES": 0.52,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Genterprise",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ghostlight",
+    "US_SALES": 0.45,
+    "EU_SALES": 1.21,
+    "JP_SALES": 0.89,
+    "OTHER_SALES": 0.24
+  },
+  {
+    "Publisher": "Giga",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Giza10",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Glams",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.08,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Global A Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Global Star",
+    "US_SALES": 1.71,
+    "EU_SALES": 5.25,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.63
+  },
+  {
+    "Publisher": "GN Software",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "GOA",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gotham Games",
+    "US_SALES": 1.24,
+    "EU_SALES": 2.27,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.22
+  },
+  {
+    "Publisher": "Graffiti",
+    "US_SALES": 0,
+    "EU_SALES": 0.35,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Grand Prix Games",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Graphsim Entertainment",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Gremlin Interactive Ltd",
+    "US_SALES": 0.37,
+    "EU_SALES": 0.66,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Griffin International",
+    "US_SALES": 0,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Groove Games",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "GSP",
+    "US_SALES": 2.09,
+    "EU_SALES": 1.12,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.34
+  },
+  {
+    "Publisher": "GT Interactive",
+    "US_SALES": 8.49,
+    "EU_SALES": 15.57,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 1.14
+  },
+  {
+    "Publisher": "GungHo",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.79,
+    "JP_SALES": 2.2,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Gust",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.15,
+    "JP_SALES": 0.84,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Hackberry",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.31,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "HAL Laboratory",
+    "US_SALES": 0,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Hamster Corporation",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Happinet",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.19,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Harmonix Music Systems",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.64,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.12
+  },
+  {
+    "Publisher": "Hasbro Interactive",
+    "US_SALES": 3.58,
+    "EU_SALES": 10.99,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.64
+  },
+  {
+    "Publisher": "Havas Interactive",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Headup Games",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Hearty Robin",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.08,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Hect",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.5,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Hello Games",
+    "US_SALES": 0.76,
+    "EU_SALES": 0.63,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0.27
+  },
+  {
+    "Publisher": "Her Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Hip Interactive",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.26,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "HMH Interactive",
+    "US_SALES": 0.11,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Home Entertainment Suppliers",
+    "US_SALES": 0.46,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Hudson Entertainment",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.32,
+    "JP_SALES": 1.21,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Hudson Soft",
+    "US_SALES": 0.91,
+    "EU_SALES": 2.48,
+    "JP_SALES": 19.21,
+    "OTHER_SALES": 0.32
+  },
+  {
+    "Publisher": "Human Entertainment",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.06,
+    "JP_SALES": 2.82,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "HuneX",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Iceberg Interactive",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "id Software",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Idea Factory",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.47,
+    "JP_SALES": 3.39,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Idea Factory International",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0.2,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "IE Institute",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.96,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ignition Entertainment",
+    "US_SALES": 1.34,
+    "EU_SALES": 3.99,
+    "JP_SALES": 0.68,
+    "OTHER_SALES": 0.58
+  },
+  {
+    "Publisher": "Illusion Softworks",
+    "US_SALES": 0.27,
+    "EU_SALES": 0.34,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Imadio",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.14,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Image Epoch",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "imageepoch Inc.",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Imageworks",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Imagic",
+    "US_SALES": 0.27,
+    "EU_SALES": 4.51,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Imagineer",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.09,
+    "JP_SALES": 2.53,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Imax",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Indie Games",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0.14,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Infogrames",
+    "US_SALES": 4.6,
+    "EU_SALES": 10.5,
+    "JP_SALES": 0.38,
+    "OTHER_SALES": 0.85
+  },
+  {
+    "Publisher": "Insomniac Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.14,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Interchannel",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Interchannel-Holon",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Interplay",
+    "US_SALES": 2.27,
+    "EU_SALES": 3.86,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.47
+  },
+  {
+    "Publisher": "Interplay Productions",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Interworks Unlimited, Inc.",
+    "US_SALES": 0,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Inti Creates",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Introversion Software",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "inXile Entertainment",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Irem Software Engineering",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.12,
+    "JP_SALES": 0.31,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "ITT Family Games",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.32,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ivolgamus",
+    "US_SALES": 0,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "iWin",
+    "US_SALES": 0.05,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Jack of All Games",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.31,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Jaleco",
+    "US_SALES": 0.42,
+    "EU_SALES": 0.78,
+    "JP_SALES": 0.64,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Jester Interactive",
+    "US_SALES": 0.29,
+    "EU_SALES": 0.7,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.14
+  },
+  {
+    "Publisher": "Jorudan",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.93,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "JoWood Productions",
+    "US_SALES": 0.46,
+    "EU_SALES": 0.86,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.12
+  },
+  {
+    "Publisher": "Just Flight",
+    "US_SALES": 0.03,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "JVC",
+    "US_SALES": 0.34,
+    "EU_SALES": 2.25,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Kadokawa Games",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.6,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Kadokawa Shoten",
+    "US_SALES": 0.31,
+    "EU_SALES": 0.46,
+    "JP_SALES": 2.93,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Kaga Create",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Kalypso Media",
+    "US_SALES": 1.03,
+    "EU_SALES": 1.02,
+    "JP_SALES": 0.11,
+    "OTHER_SALES": 0.24
+  },
+  {
+    "Publisher": "Kamui",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Kando Games",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Karin Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Kemco",
+    "US_SALES": 0.49,
+    "EU_SALES": 1.61,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "KID",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.08,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Kids Station",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "King Records",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Knowledge Adventure",
+    "US_SALES": 0.16,
+    "EU_SALES": 1.22,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Koch Media",
+    "US_SALES": 1.43,
+    "EU_SALES": 2.31,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.78
+  },
+  {
+    "Publisher": "Kokopeli Digital Studios",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Konami Digital Entertainment",
+    "US_SALES": 68.98,
+    "EU_SALES": 91.9,
+    "JP_SALES": 91.4,
+    "OTHER_SALES": 29.93
+  },
+  {
+    "Publisher": "Kool Kizz",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "KSS",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Laguna",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.16,
+    "JP_SALES": 1.34,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Legacy Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "LEGO Media",
+    "US_SALES": 0.5,
+    "EU_SALES": 1.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Level 5",
+    "US_SALES": 0.27,
+    "EU_SALES": 0.2,
+    "JP_SALES": 11.73,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Lexicon Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Licensed 4U",
+    "US_SALES": 0.06,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Lighthouse Interactive",
+    "US_SALES": 0.01,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Liquid Games",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Little Orbit",
+    "US_SALES": 1.08,
+    "EU_SALES": 0.54,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.14
+  },
+  {
+    "Publisher": "Locus",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "LSP Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "LucasArts",
+    "US_SALES": 25.89,
+    "EU_SALES": 49.53,
+    "JP_SALES": 0.2,
+    "OTHER_SALES": 10.23
+  },
+  {
+    "Publisher": "Mad Catz",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.24,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Magical Company",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.15,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Magix",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.17,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Majesco Entertainment",
+    "US_SALES": 2.85,
+    "EU_SALES": 11.91,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.95
+  },
+  {
+    "Publisher": "Mamba Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Marvel Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Marvelous Entertainment",
+    "US_SALES": 0.21,
+    "EU_SALES": 0.74,
+    "JP_SALES": 1.19,
+    "OTHER_SALES": 0.12
+  },
+  {
+    "Publisher": "Marvelous Games",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Marvelous Interactive",
+    "US_SALES": 0.12,
+    "EU_SALES": 1.53,
+    "JP_SALES": 2.23,
+    "OTHER_SALES": 0.17
+  },
+  {
+    "Publisher": "Masque Publishing",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Mastertronic",
+    "US_SALES": 0.45,
+    "EU_SALES": 1.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Mastiff",
+    "US_SALES": 0.05,
+    "EU_SALES": 1.96,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Mattel Interactive",
+    "US_SALES": 0.37,
+    "EU_SALES": 3.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Max Five",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Maximum Family Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Maxis",
+    "US_SALES": 1.32,
+    "EU_SALES": 1.88,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "MC2 Entertainment",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Media Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Media Factory",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.29,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Media Rings",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.14,
+    "JP_SALES": 0.46,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Media Works",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.18,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "MediaQuest",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Men-A-Vision",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.72,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Mentor Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.96,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Mercury Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.17,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Merscom LLC",
+    "US_SALES": 0.17,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Metro 3D",
+    "US_SALES": 0.47,
+    "EU_SALES": 0.77,
+    "JP_SALES": 0.42,
+    "OTHER_SALES": 0.15
+  },
+  {
+    "Publisher": "Michaelsoft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Micro Cabin",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.2,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Microids",
+    "US_SALES": 0.14,
+    "EU_SALES": 0.24,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Microprose",
+    "US_SALES": 1.19,
+    "EU_SALES": 0.7,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.16
+  },
+  {
+    "Publisher": "Microsoft Game Studios",
+    "US_SALES": 68.64,
+    "EU_SALES": 157.43,
+    "JP_SALES": 3.3,
+    "OTHER_SALES": 18.91
+  },
+  {
+    "Publisher": "Midas Interactive Entertainment",
+    "US_SALES": 0.97,
+    "EU_SALES": 1.34,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0.26
+  },
+  {
+    "Publisher": "Midway Games",
+    "US_SALES": 18.27,
+    "EU_SALES": 45.36,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 5.72
+  },
+  {
+    "Publisher": "Milestone",
+    "US_SALES": 0,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Milestone S.r.l",
+    "US_SALES": 0.11,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Milestone S.r.l.",
+    "US_SALES": 0.7,
+    "EU_SALES": 0.26,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0.15
+  },
+  {
+    "Publisher": "Minato Station",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Mindscape",
+    "US_SALES": 2.47,
+    "EU_SALES": 4.6,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.55
+  },
+  {
+    "Publisher": "Mirai Shounen",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Misawa",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Mitsui",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "mixi, Inc",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.87,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "MLB.com",
+    "US_SALES": 0,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Mojang",
+    "US_SALES": 1.24,
+    "EU_SALES": 1.32,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.36
+  },
+  {
+    "Publisher": "Monte Christo Multimedia",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Moss",
+    "US_SALES": 0,
+    "EU_SALES": 0.1,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "MTO",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.39,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "MTV Games",
+    "US_SALES": 3.91,
+    "EU_SALES": 14.84,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 2
+  },
+  {
+    "Publisher": "Mud Duck Productions",
+    "US_SALES": 0.25,
+    "EU_SALES": 0.52,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Mumbo Jumbo",
+    "US_SALES": 0,
+    "EU_SALES": 0.54,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Mycom",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Myelin Media",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Mystique",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.76,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "N/A",
+    "US_SALES": 4.64,
+    "EU_SALES": 8.51,
+    "JP_SALES": 0.93,
+    "OTHER_SALES": 0.67
+  },
+  {
+    "Publisher": "Namco Bandai Games",
+    "US_SALES": 42.16,
+    "EU_SALES": 69.9,
+    "JP_SALES": 127.85,
+    "OTHER_SALES": 14.6
+  },
+  {
+    "Publisher": "Natsume",
+    "US_SALES": 0.64,
+    "EU_SALES": 2.53,
+    "JP_SALES": 0.32,
+    "OTHER_SALES": 0.21
+  },
+  {
+    "Publisher": "Navarre Corp",
+    "US_SALES": 0,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Naxat Soft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "NCS",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.4,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "NCSoft",
+    "US_SALES": 1.2,
+    "EU_SALES": 1.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.29
+  },
+  {
+    "Publisher": "NDA Productions",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "NEC",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.43,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "NEC Interchannel",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.78,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Neko Entertainment",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "NetRevo",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "New",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.33,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "New World Computing",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "NewKidCo",
+    "US_SALES": 0.38,
+    "EU_SALES": 0.89,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Nexon",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nichibutsu",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.28,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nihon Falcom Corporation",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.1,
+    "JP_SALES": 0.59,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Nintendo",
+    "US_SALES": 419.01,
+    "EU_SALES": 816.97,
+    "JP_SALES": 458.15,
+    "OTHER_SALES": 94.68
+  },
+  {
+    "Publisher": "Nippon Amuse",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.09,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nippon Columbia",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.98,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nippon Ichi Software",
+    "US_SALES": 1.61,
+    "EU_SALES": 4.95,
+    "JP_SALES": 5.94,
+    "OTHER_SALES": 1.23
+  },
+  {
+    "Publisher": "Nippon Telenet",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.26,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nitroplus",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Nobilis",
+    "US_SALES": 0.16,
+    "EU_SALES": 1.6,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.14
+  },
+  {
+    "Publisher": "Nordcurrent",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.39,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Nordic Games",
+    "US_SALES": 2.94,
+    "EU_SALES": 0.78,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.46
+  },
+  {
+    "Publisher": "NovaLogic",
+    "US_SALES": 0.24,
+    "EU_SALES": 0.48,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Number None",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "O3 Entertainment",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Ocean",
+    "US_SALES": 1,
+    "EU_SALES": 2.06,
+    "JP_SALES": 0.42,
+    "OTHER_SALES": 0.11
+  },
+  {
+    "Publisher": "Office Create",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "O-Games",
+    "US_SALES": 0.46,
+    "EU_SALES": 0.43,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "On Demand",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.12,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Ongakukan",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Origin Systems",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Otomate",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Oxygen Interactive",
+    "US_SALES": 1.03,
+    "EU_SALES": 2.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.36
+  },
+  {
+    "Publisher": "P2 Games",
+    "US_SALES": 0.32,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Pacific Century Cyber Works",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.11,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Pack In Soft",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.25,
+    "JP_SALES": 0.11,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Pack-In-Video",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.11,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Palcom",
+    "US_SALES": 0.44,
+    "EU_SALES": 3.38,
+    "JP_SALES": 0.31,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Panther Software",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Paon",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.25,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Paon Corporation",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Paradox Development",
+    "US_SALES": 0.01,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Paradox Interactive",
+    "US_SALES": 0.62,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Parker Bros.",
+    "US_SALES": 0.27,
+    "EU_SALES": 4.65,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Performance Designed Products",
+    "US_SALES": 0,
+    "EU_SALES": 0.32,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Phantagram",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Phantom EFX",
+    "US_SALES": 0,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Phenomedia",
+    "US_SALES": 0,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Phoenix Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Piacci",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Pinnacle",
+    "US_SALES": 1.3,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Pioneer LDC",
+    "US_SALES": 0.16,
+    "EU_SALES": 0.23,
+    "JP_SALES": 0.32,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Play It",
+    "US_SALES": 1.23,
+    "EU_SALES": 2.53,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.55
+  },
+  {
+    "Publisher": "Playlogic Game Factory",
+    "US_SALES": 0.15,
+    "EU_SALES": 0.92,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Playmates",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Playmore",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "PlayV",
+    "US_SALES": 0.28,
+    "EU_SALES": 0.1,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Plenty",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "PM Studios",
+    "US_SALES": 0,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Pony Canyon",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "PopCap Games",
+    "US_SALES": 0.33,
+    "EU_SALES": 1.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Popcorn Arcade",
+    "US_SALES": 0,
+    "EU_SALES": 0.44,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "PopTop Software",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Pow",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "PQube",
+    "US_SALES": 0.88,
+    "EU_SALES": 1.94,
+    "JP_SALES": 1.33,
+    "OTHER_SALES": 0.43
+  },
+  {
+    "Publisher": "Princess Soft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Prototype",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.63,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Psygnosis",
+    "US_SALES": 2.48,
+    "EU_SALES": 3.63,
+    "JP_SALES": 0.72,
+    "OTHER_SALES": 0.45
+  },
+  {
+    "Publisher": "Quelle",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.81,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Quest",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.71,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Quinrose",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.22,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Quintet",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Rage Software",
+    "US_SALES": 0.47,
+    "EU_SALES": 0.81,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Rebellion",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.35,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Rebellion Developments",
+    "US_SALES": 0.19,
+    "EU_SALES": 0.12,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "RED Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Red Flagship",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Red Orb",
+    "US_SALES": 3.61,
+    "EU_SALES": 1.54,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Red Storm Entertainment",
+    "US_SALES": 0.8,
+    "EU_SALES": 1.43,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "RedOctane",
+    "US_SALES": 1.31,
+    "EU_SALES": 6.44,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0.91
+  },
+  {
+    "Publisher": "Reef Entertainment",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.15,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "responDESIGN",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Revolution (Japan)",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Revolution Software",
+    "US_SALES": 0.08,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Rising Star Games",
+    "US_SALES": 2.74,
+    "EU_SALES": 10.24,
+    "JP_SALES": 2.56,
+    "OTHER_SALES": 1.16
+  },
+  {
+    "Publisher": "Riverhillsoft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Rocket Company",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 1.82,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Rondomedia",
+    "US_SALES": 1.11,
+    "EU_SALES": 1.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.23
+  },
+  {
+    "Publisher": "RTL",
+    "US_SALES": 0.96,
+    "EU_SALES": 0.82,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "Russel",
+    "US_SALES": 1.12,
+    "EU_SALES": 0,
+    "JP_SALES": 0.09,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sammy Corporation",
+    "US_SALES": 0.31,
+    "EU_SALES": 0.41,
+    "JP_SALES": 1.91,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Saurus",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Scholastic Inc.",
+    "US_SALES": 0.03,
+    "EU_SALES": 2.55,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "SCi",
+    "US_SALES": 1.23,
+    "EU_SALES": 2.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.26
+  },
+  {
+    "Publisher": "Screenlife",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0.68,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "SCS Software",
+    "US_SALES": 0.12,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Sears",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.2,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sega",
+    "US_SALES": 80.66,
+    "EU_SALES": 108.61,
+    "JP_SALES": 57.06,
+    "OTHER_SALES": 23.81
+  },
+  {
+    "Publisher": "Seta Corporation",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.59,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Seventh Chord",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.08,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Shogakukan",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.45,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Simon & Schuster Interactive",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Slightly Mad Studios",
+    "US_SALES": 0.95,
+    "EU_SALES": 0.31,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "Slitherine Software",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "SNK",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.04,
+    "JP_SALES": 2.48,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "SNK Playmore",
+    "US_SALES": 0.14,
+    "EU_SALES": 0.23,
+    "JP_SALES": 0.56,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Societa",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sold Out",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sonnet",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sony Computer Entertainment",
+    "US_SALES": 186.56,
+    "EU_SALES": 266.17,
+    "JP_SALES": 74.15,
+    "OTHER_SALES": 79.67
+  },
+  {
+    "Publisher": "Sony Computer Entertainment America",
+    "US_SALES": 0,
+    "EU_SALES": 1.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.25
+  },
+  {
+    "Publisher": "Sony Computer Entertainment Europe",
+    "US_SALES": 8.68,
+    "EU_SALES": 8.86,
+    "JP_SALES": 2.55,
+    "OTHER_SALES": 3.29
+  },
+  {
+    "Publisher": "Sony Music Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.14,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sony Online Entertainment",
+    "US_SALES": 1.14,
+    "EU_SALES": 1.96,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.4
+  },
+  {
+    "Publisher": "SouthPeak Games",
+    "US_SALES": 0.84,
+    "EU_SALES": 4.73,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0.54
+  },
+  {
+    "Publisher": "Spike",
+    "US_SALES": 0.33,
+    "EU_SALES": 3.32,
+    "JP_SALES": 2.12,
+    "OTHER_SALES": 0.38
+  },
+  {
+    "Publisher": "SPS",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Square",
+    "US_SALES": 0.29,
+    "EU_SALES": 0.53,
+    "JP_SALES": 2.6,
+    "OTHER_SALES": 0.23
+  },
+  {
+    "Publisher": "Square EA",
+    "US_SALES": 0.3,
+    "EU_SALES": 0.45,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Square Enix",
+    "US_SALES": 32.41,
+    "EU_SALES": 48.29,
+    "JP_SALES": 50.09,
+    "OTHER_SALES": 13.63
+  },
+  {
+    "Publisher": "Square Enix",
+    "US_SALES": 0.45,
+    "EU_SALES": 0.44,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "SquareSoft",
+    "US_SALES": 4.95,
+    "EU_SALES": 11.06,
+    "JP_SALES": 40.13,
+    "OTHER_SALES": 1.54
+  },
+  {
+    "Publisher": "SSI",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.11,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Stainless Games",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Starfish",
+    "US_SALES": 0.19,
+    "EU_SALES": 0.39,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Starpath Corp.",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.3,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sting",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.4,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Storm City Games",
+    "US_SALES": 0.1,
+    "EU_SALES": 1.31,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "Strategy First",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Success",
+    "US_SALES": 0.49,
+    "EU_SALES": 1.11,
+    "JP_SALES": 0.22,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Summitsoft",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sunflowers",
+    "US_SALES": 0.02,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Sunrise Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.17,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Sunsoft",
+    "US_SALES": 0.25,
+    "EU_SALES": 0.5,
+    "JP_SALES": 0.17,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Sweets",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Swing! Entertainment",
+    "US_SALES": 0.16,
+    "EU_SALES": 0.28,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Syscom",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0.15,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "System 3",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "System 3 Arcade Software",
+    "US_SALES": 0.62,
+    "EU_SALES": 0.93,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "System Soft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "T&E Soft",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.12,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Taito",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.41,
+    "JP_SALES": 2.14,
+    "OTHER_SALES": 0.19
+  },
+  {
+    "Publisher": "Takara",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.16,
+    "JP_SALES": 3.14,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "Takara Tomy",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.75,
+    "JP_SALES": 1.88,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Take-Two Interactive",
+    "US_SALES": 119.25,
+    "EU_SALES": 222.94,
+    "JP_SALES": 5.93,
+    "OTHER_SALES": 55.72
+  },
+  {
+    "Publisher": "Takuyo",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "TalonSoft",
+    "US_SALES": 0.33,
+    "EU_SALES": 0.49,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "TDK Core",
+    "US_SALES": 0.12,
+    "EU_SALES": 0.24,
+    "JP_SALES": 0.25,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "TDK Mediactive",
+    "US_SALES": 2.42,
+    "EU_SALES": 5.41,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.45
+  },
+  {
+    "Publisher": "Team17 Software",
+    "US_SALES": 0.04,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Technos Japan Corporation",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "TechnoSoft",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Tecmo Koei",
+    "US_SALES": 6.78,
+    "EU_SALES": 14.08,
+    "JP_SALES": 29.47,
+    "OTHER_SALES": 3.14
+  },
+  {
+    "Publisher": "Telegames",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.89,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.06
+  },
+  {
+    "Publisher": "Telltale Games",
+    "US_SALES": 1.01,
+    "EU_SALES": 1.31,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0.37
+  },
+  {
+    "Publisher": "Telstar",
+    "US_SALES": 0.1,
+    "EU_SALES": 0.16,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Tetris Online",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.2,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "TGL",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "The Adventure Company",
+    "US_SALES": 0.12,
+    "EU_SALES": 0.33,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "The Learning Company",
+    "US_SALES": 0.02,
+    "EU_SALES": 0.03,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "THQ",
+    "US_SALES": 93.78,
+    "EU_SALES": 207.72,
+    "JP_SALES": 5.01,
+    "OTHER_SALES": 31.89
+  },
+  {
+    "Publisher": "Tigervision",
+    "US_SALES": 0.09,
+    "EU_SALES": 1.33,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Time Warner Interactive",
+    "US_SALES": 0.12,
+    "EU_SALES": 0.18,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Titus",
+    "US_SALES": 1.08,
+    "EU_SALES": 1.96,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0.2
+  },
+  {
+    "Publisher": "Tivola",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.08,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "TOHO",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.11,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Tommo",
+    "US_SALES": 0,
+    "EU_SALES": 0.2,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Tomy Corporation",
+    "US_SALES": 0.75,
+    "EU_SALES": 1.83,
+    "JP_SALES": 2.12,
+    "OTHER_SALES": 0.25
+  },
+  {
+    "Publisher": "TopWare Interactive",
+    "US_SALES": 0.08,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Touchstone",
+    "US_SALES": 0.47,
+    "EU_SALES": 0.88,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.18
+  },
+  {
+    "Publisher": "Tradewest",
+    "US_SALES": 0.05,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Trion Worlds",
+    "US_SALES": 0.28,
+    "EU_SALES": 0.72,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.13
+  },
+  {
+    "Publisher": "Tripwire Interactive",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.07,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Tru Blu Entertainment",
+    "US_SALES": 0.2,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Tryfirst",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "TYO",
+    "US_SALES": 0.16,
+    "EU_SALES": 0.23,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Type-Moon",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.1,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "U.S. Gold",
+    "US_SALES": 0.13,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Ubisoft",
+    "US_SALES": 161.99,
+    "EU_SALES": 252.74,
+    "JP_SALES": 7.52,
+    "OTHER_SALES": 49.18
+  },
+  {
+    "Publisher": "Ubisoft Annecy",
+    "US_SALES": 0.64,
+    "EU_SALES": 1.27,
+    "JP_SALES": 2.28,
+    "OTHER_SALES": 0.26
+  },
+  {
+    "Publisher": "UEP Systems",
+    "US_SALES": 0.46,
+    "EU_SALES": 1.52,
+    "JP_SALES": 0.2,
+    "OTHER_SALES": 0.08
+  },
+  {
+    "Publisher": "UFO Interactive",
+    "US_SALES": 0,
+    "EU_SALES": 0.9,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "UIG Entertainment",
+    "US_SALES": 0.01,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Ultravision",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.44,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Universal Gamex",
+    "US_SALES": 0.04,
+    "EU_SALES": 0.58,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Universal Interactive",
+    "US_SALES": 6.73,
+    "EU_SALES": 9.08,
+    "JP_SALES": 0.24,
+    "OTHER_SALES": 1.75
+  },
+  {
+    "Publisher": "Unknown",
+    "US_SALES": 7.42,
+    "EU_SALES": 18.35,
+    "JP_SALES": 6.09,
+    "OTHER_SALES": 2.47
+  },
+  {
+    "Publisher": "Valcon Games",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.3,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "ValuSoft",
+    "US_SALES": 0.09,
+    "EU_SALES": 0.27,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.04
+  },
+  {
+    "Publisher": "Valve",
+    "US_SALES": 0.6,
+    "EU_SALES": 0.83,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.24
+  },
+  {
+    "Publisher": "Valve Software",
+    "US_SALES": 1.13,
+    "EU_SALES": 1.74,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.31
+  },
+  {
+    "Publisher": "Vap",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Vatical Entertainment",
+    "US_SALES": 0.07,
+    "EU_SALES": 0.14,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Vic Tokai",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.19,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Victor Interactive",
+    "US_SALES": 0.08,
+    "EU_SALES": 0.11,
+    "JP_SALES": 0.68,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Video System",
+    "US_SALES": 1.04,
+    "EU_SALES": 0.67,
+    "JP_SALES": 0.37,
+    "OTHER_SALES": 0.09
+  },
+  {
+    "Publisher": "Views",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.03,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Vir2L Studios",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.22,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Virgin Interactive",
+    "US_SALES": 12.94,
+    "EU_SALES": 19,
+    "JP_SALES": 8.94,
+    "OTHER_SALES": 3.03
+  },
+  {
+    "Publisher": "Virtual Play Games",
+    "US_SALES": 0,
+    "EU_SALES": 0.06,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Visco",
+    "US_SALES": 0,
+    "EU_SALES": 0.02,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Vivendi Games",
+    "US_SALES": 15.88,
+    "EU_SALES": 36.95,
+    "JP_SALES": 0.23,
+    "OTHER_SALES": 4.79
+  },
+  {
+    "Publisher": "Wanadoo",
+    "US_SALES": 0.21,
+    "EU_SALES": 0.3,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Warashi",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Wargaming.net",
+    "US_SALES": 0.23,
+    "EU_SALES": 0,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.05
+  },
+  {
+    "Publisher": "Warner Bros. Interactive Entertainment",
+    "US_SALES": 51.06,
+    "EU_SALES": 81.51,
+    "JP_SALES": 1.1,
+    "OTHER_SALES": 18.23
+  },
+  {
+    "Publisher": "Warp",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.07,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "WayForward Technologies",
+    "US_SALES": 0,
+    "EU_SALES": 0.05,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Westwood Studios",
+    "US_SALES": 0,
+    "EU_SALES": 1.55,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "White Park Bay Software",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.13,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Wizard Video Games",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.58,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Xicat Interactive",
+    "US_SALES": 0.06,
+    "EU_SALES": 0.09,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.01
+  },
+  {
+    "Publisher": "Xing Entertainment",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.04,
+    "JP_SALES": 0.16,
+    "OTHER_SALES": 0.02
+  },
+  {
+    "Publisher": "Xplosiv",
+    "US_SALES": 0.85,
+    "EU_SALES": 0.6,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.17
+  },
+  {
+    "Publisher": "XS Games",
+    "US_SALES": 0.17,
+    "EU_SALES": 1.15,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.1
+  },
+  {
+    "Publisher": "Xseed Games",
+    "US_SALES": 0.03,
+    "EU_SALES": 0.46,
+    "JP_SALES": 0.37,
+    "OTHER_SALES": 0.07
+  },
+  {
+    "Publisher": "Yacht Club Games",
+    "US_SALES": 0.11,
+    "EU_SALES": 0.17,
+    "JP_SALES": 0.02,
+    "OTHER_SALES": 0.03
+  },
+  {
+    "Publisher": "Yamasa Entertainment",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.04,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Yeti",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.24,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Yuke's",
+    "US_SALES": 0.01,
+    "EU_SALES": 0.01,
+    "JP_SALES": 0.05,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Yumedia",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Zenrin",
+    "US_SALES": 0,
+    "EU_SALES": 0,
+    "JP_SALES": 0.06,
+    "OTHER_SALES": 0
+  },
+  {
+    "Publisher": "Zoo Digital Publishing",
+    "US_SALES": 2.43,
+    "EU_SALES": 9.48,
+    "JP_SALES": 0.14,
+    "OTHER_SALES": 0.77
+  },
+  {
+    "Publisher": "Zoo Games",
+    "US_SALES": 0,
+    "EU_SALES": 4.4,
+    "JP_SALES": 0,
+    "OTHER_SALES": 0.27
+  },
+  {
+    "Publisher": "Zushi Games",
+    "US_SALES": 0.04,
+    "EU_SALES": 1.65,
+    "JP_SALES": 0.01,
+    "OTHER_SALES": 0.12
+  }
+]
